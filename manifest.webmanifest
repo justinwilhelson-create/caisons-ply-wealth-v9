@@ -1,1 +1,17 @@
-{"name":"CAISONSPLY Wealth v9 PRO","short_name":"CAISON Wealth","start_url":"./index.html","display":"standalone","background_color":"#080d16","theme_color":"#080d16","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+
+{
+  "name": "CAISONSPLY Wealth v9 PRO",
+  "short_name": "CW Wealth",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080F1C",
+  "theme_color": "#080F1C",
+  "icons": [
+    {
+      "src": "./icon-baru.png..PNG",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
